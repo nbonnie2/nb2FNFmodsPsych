@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "dionb",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wait, you want to 1v1??"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dionb",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok......."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dionb",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "don't you mind that i pick the music."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "bep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dionb",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I will count that as a yes"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Beep bop ski bep!"
+		}
+	]
+}

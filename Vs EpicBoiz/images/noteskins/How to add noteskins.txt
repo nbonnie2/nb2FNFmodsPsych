@@ -1,0 +1,2 @@
+Just rename the .xma and .png 'NOTE_assets' and put it in assets/images to replace the note assets.
+PHYCH ENGINE IS STUPID BECAUSE I CANT PUT NOTE TEXTURES.

@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"EWeek2 Coming Soon!",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": true,
+	"weekBackground": "",
+	"difficulties": "Easy, Normal, Hard",
+	"weekCharacters": [
+		"",
+		"gf",
+		"bf"
+	],
+	"storyName": "COMING SOON!",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "noweek",
+	"startUnlocked": false
+}
