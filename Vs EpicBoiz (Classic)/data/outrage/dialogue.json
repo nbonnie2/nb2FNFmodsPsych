@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bop"
+		},
+		{
+			"speed": 0.5,
+			"portrait": "dionb",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ". . ."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "bep?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dionb",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "THA\"T'S THE LAST ####### STRAW YOU LITTLE ######!!!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Bop?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "You better ghet ready/...."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "bep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dionb",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "don't get too cocky...."
+		}
+	]
+}
