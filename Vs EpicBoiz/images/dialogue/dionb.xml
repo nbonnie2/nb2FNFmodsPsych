@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="dionb.png"><SubTexture name="dionb idle0000" x="0" y="0" width="492" height="634" frameX="0" frameY="0" frameWidth="492" frameHeight="634" />
-<SubTexture name="dionb talk0000" x="492" y="0" width="492" height="634" frameX="0" frameY="0" frameWidth="492" frameHeight="634" />
-<SubTexture name="dionb talk0001" x="0" y="634" width="492" height="634" frameX="0" frameY="0" frameWidth="492" frameHeight="634" />
-<SubTexture name="dionb talk0002" x="492" y="634" width="492" height="634" frameX="0" frameY="0" frameWidth="492" frameHeight="634" />
-</TextureAtlas>
