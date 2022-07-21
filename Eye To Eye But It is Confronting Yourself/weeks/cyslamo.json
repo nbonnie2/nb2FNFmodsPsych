@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Eye To Eye",
+			"sonicexe",
+			[
+				0,
+				0,
+				73
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Eye To Eye",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
